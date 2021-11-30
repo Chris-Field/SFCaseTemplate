@@ -1,0 +1,58 @@
+// Not functioning yet, do not use
+
+[
+  {
+    "id": "AppliedRater",
+    "title": "Applied Rater Defect",
+    "file": "menuitems/scripts/appliedrater.js",
+    "type": "script"
+  },
+  {
+    "id": "ClDefect",
+    "title": "Commercial Lines",
+    "file": "menuitems/scripts/epicquotes.js",
+    "type": "script"
+  },
+  {
+    "id": "EqDefect",
+    "title": "Epic Qutoes Defect",
+    "file": "menuitems/scripts/ivans.js",
+    "type": "script"
+  },
+  {
+    "id": "IVANS",
+    "title": "IVANS RTR Defect",
+    "file": "menuitemsscripts/ivans.js",
+    "type": "script"
+  },
+  {
+    "id": "EZLynx",
+    "title": "EZ Lynx Defect",
+    "file": "menuitems/scripts/ezlynx.js",
+    "type": "script"
+  },
+  {
+    "id": "Autopilot",
+    "title": "AutoPilot Defect",
+    "file": "menuitems/scripts/autopilotdefect.js",
+    "type": "script"
+  },
+  {
+    "id": "LeadsInbox",
+    "title": "Leads Inbox Defect",
+    "file": "menuitems/scripts/leadsinbox.js",
+    "type": "script"
+  },
+  {
+    "id": "ConfluenceManager",
+    "title": "Confluence Manager",
+    "file": "confluence.html",
+    "type": "url"
+  },
+  {
+    "id": "GeneralTemplate",
+    "title": "General Template",
+    "file": "menuitems/scripts/generaltemplate.js",
+    "type": "script"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "US Rating Escalation Assistant",
+  "short_name": "Escalation Helper",
+  "description": "This helps the US Rating team submit cases/defects easier",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "options_page": "options.html",
+  "browser_action": {
+    "default_icon": "icons/icon128.png",
+    "default_title": "US Rating Escalation Assistant"
+  },
+  "background": {
+    "scripts": [
+      "scripts/browser-action.js",
+      "scripts/menuitems/appliedrater.js",
+      "scripts/menuitems/confluence.js"
+    ],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab",
+    "clipboardWrite",
+    "contextMenus",
+    "tabs",
+    "storage"
+
+  ]
+
+
+}
